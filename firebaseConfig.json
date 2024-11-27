@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "testproject-451bd",
+  "private_key_id": "5aa5de352c4099cc3487ad31267a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC96z5s07fqpjHr\npe1b39/NGRHhFhDl/RbS1nw1SsF5SiYopEU+xMXRQIlDsdbKrQ+ZKaFPBq3XzLcJ\ng8jiaqOWsnNmKNw8laop22Q69zO+mili4cFxB7NYTu/IeSRQJ5s4nCH4kckST2Mg\nsYpcxYA6cMFw9ECRbrt54l7C5DN6OmCtaZEhHMbfEctb3SQapuhcy8LqoXFaiLl6\n/neMhF4gXmrGlcotestM0kHdG6dB\nLpU47RJ3Rq5gr5FmM189wmKM7TQcHffSQo1qjGmua0QHlbW8EPslKL0X0BiK1M2G\nk1zYpJMFdIDvguI0WmMHxEUvMwKBgQDD+iyXJHJkBLDYrAxsobLIiRWBvC//AtrP\nolohPhU7n1fy5dTp98pMi8hkkM2yQzu8ONIo8PiZnAbJTQ5c7WGJRS4jiaVDkGDM\nAR8ohtFJP6OnrMZOu0sn4BUMeSPb4Zu/EkMnRWl9nTY7gwmve8jtt/eoRIiMsDC7\ng3wjpe7iyQKBgBchB2CkMsguLWLSbi10TuaFB0G8PNwgAL2mT7s85pb+yhYeUR/i\nNaUDVRaoE0bzkesExA/hb3spBxb0Iw3CqArcn2IbZtqAw8+Bbpm1a7azzq3oZVhm\n+AQ8/wVR3s/ON1lHRALc33Q+5GrdGCQ5zOgtv788c2DhFPHIk37/32tdAoGATEY7\nQpwR1XGp7rqPn1wTvE72SucWexb+WJ+kmpmSJAFxdn0TL/icCMzCsrlVBZN7VVd8\nHCklaIu8bG6ML4jIVGfTfEtfQfuYYO3y1ZAbNnoJVQI+sHfe2Wcyagdf+H1HY8dU\n0Z0HYLdmWyU2CNGRs0vNnPUHfFI6tVCIaUt0vVkCgYAHuf4NTYEMud80KwdZMjU2\ndkhF1bzjImjwXqeTFalbsYuOdhLixN/roxRrcK9/G5r2uQcDpoPvgTBK4xXJHsa3\n72u9tP0ZjqmvrRPA9C/W7vQb+X/gIJLQnTD2NzIqd2KhK83ImK7VU4HMF4iY7QDC\nAKTkNY8nUjS/kH8vHoKfdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-730ne@testproject-451bd.iam.gserviceaccount.com",
+  "client_id": "105880178167616222710",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-730ne%40testproject-451bd.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

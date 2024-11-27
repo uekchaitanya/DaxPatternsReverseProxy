@@ -1,0 +1,6 @@
+@DaxPatternsReverseProxy_HostAddress = http://localhost:5014
+
+GET {{DaxPatternsReverseProxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
